@@ -83,7 +83,7 @@ For quantitative results of the trained model on the KITTI dataset, refer to:
 - [KITTI Benchmark Results](https://www.cvlibs.net/datasets/kitti/eval_road_detail.php?result=7be66e7836f2bd6559126d1a025a5395da80eab4)
 
 You can the weights/checkpoints and submission files at :
-- [Other Data]([https://github.com/abdkhanstd/FedR](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/Eju_0rUp-BZHseCT0VGhOHEB0JRGI66LvqA3QR50OQBuyA?e=D4USVQ))
+- [Other Data](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/Eju_0rUp-BZHseCT0VGhOHEB0JRGI66LvqA3QR50OQBuyA?e=D4USVQ)
 
 --- 
 
