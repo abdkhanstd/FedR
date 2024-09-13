@@ -1,4 +1,5 @@
-# FedR: Privacy-Preserving Road Segmentation in Autonomous Driving with Federated Vision
+# FedR: A Federated Framework for Drivable Road Area Detection
+
 
 This repository contains the code for FeDR, a federated learning framework designed for road segmentation in autonomous driving using Vision Transformers (ViT) and Convolutional Neural Networks (CNNs). 
 
