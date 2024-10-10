@@ -1,7 +1,7 @@
-# FedR: A Federated Framework for Drivable Road Area Detection
+# V2FedR: A Federated Framework for Drivable Road Area Detection
 
 
-This repository contains the code for FeDR, a federated learning framework designed for road segmentation in autonomous driving using Vision Transformers (ViT) and Convolutional Neural Networks (CNNs). 
+This repository contains the code for V2FeDR, a federated learning framework designed for road segmentation in autonomous driving using Vision Transformers (ViT) and Convolutional Neural Networks (CNNs). 
 
 ## Table of Contents
 - [Introduction](#introduction)
