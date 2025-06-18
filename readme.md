@@ -12,7 +12,7 @@ This repository contains the code for V2FedR, a federated learning framework des
 - [Results](#results)
 
 ## Introduction
-FeDR is a privacy-preserving federated learning framework that enables multiple organizations to collaboratively train a road segmentation model without sharing raw data. The model combines Vision Transformers (ViTs) for global context capture and Convolutional Neural Networks (CNNs) for local feature extraction.
+V2FedR is a privacy-preserving federated learning framework that enables multiple organizations to collaboratively train a road segmentation model without sharing raw data. The model combines Vision Transformers (ViTs) for global context capture and Convolutional Neural Networks (CNNs) for local feature extraction.
 
 ## Installation
 
